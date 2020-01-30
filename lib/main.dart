@@ -16,7 +16,7 @@ class MyApp extends StatefulWidget {
 
 class _MyAppState extends State<MyApp> {
 
-  String personal_access_token = '02b13fee763967a3ffcc5dbce2411a39736cde80';
+  String personal_access_token = /*'put your git token here...removed mine for privacy sake :-)'*/;
   @override
   Widget build(BuildContext context) {
     //THis generates my link to the github api
