@@ -1,6 +1,6 @@
 # myrepo
 
-A mobile client for my GitHub repo
+A mobile client for GitHub
 
 ## Getting Started
 
